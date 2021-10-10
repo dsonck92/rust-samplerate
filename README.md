@@ -1,6 +1,6 @@
 # Samplerate
 
-[![Build Status](https://travis-ci.org/Prior99/rust-samplerate.svg?branch=master)](https://travis-ci.org/Prior99/rust-samplerate)
+[![Build Status](https://travis-ci.org/dsonck92/rust-samplerate.svg?branch=master)](https://travis-ci.org/dsonck92/rust-samplerate)
 [![Docs](https://docs.rs/samplerate/badge.svg)](https://docs.rs/samplerate/)
 
 A samplerate conversion library for Rust.
